@@ -4,4 +4,9 @@
   <artifactId>microservice-patterns-experiment-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>
+  		microservice-patterns-experiment-accounting-service
+  	</module>
+  </modules>
 </project>
